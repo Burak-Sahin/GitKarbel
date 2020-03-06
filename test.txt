@@ -5,3 +5,5 @@ satir3
 rebase için 2
 
 mr pr test
+
+pr 2
